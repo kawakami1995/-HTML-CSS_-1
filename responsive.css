@@ -148,6 +148,10 @@
     display: none;
 }
 
+.FirstView-content-buttons a:hover{
+    opacity: 1;
+}
+
 .AboutWrapper{
     padding: 30px 0;
 }
